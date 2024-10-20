@@ -72,8 +72,8 @@ html {
 }
 
 section .gambar {
-  width: auto;
-  height: auto;
+  width: 200%;
+  height: 200%;
 }
 
 section .ucapan {
